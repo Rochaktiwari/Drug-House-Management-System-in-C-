@@ -58,7 +58,8 @@ A simple, console-based C++ application developed to streamline pharmaceutical i
 
 ---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
+
 Rochak Tiwari
 B.Tech Computer Science Student | Passionate about C++, Problem Solving, and Software Engineering
 
