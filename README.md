@@ -1,6 +1,6 @@
 # 💊 Drug House Management System
 
-A simple, console-based C++ application developed to streamline pharmaceutical inventory, billing, and stock management for a drug store or medical facility.
+A simple, console-based C++ application developed to streamline pharmaceutical inventory, billing, and stock management for a medical facility.
 
 ---
 
@@ -28,8 +28,11 @@ A simple, console-based C++ application developed to streamline pharmaceutical i
 
 ## 📂 File Structure
 ├── DrugHouseManagementSystem.cpp # Main source code
+
 ├── stock.txt # Stores current stock data
+
 ├── bill_history.txt # Stores all bill history
+
 ├── pin.txt # Stores admin PIN
 
 ---
@@ -39,7 +42,7 @@ A simple, console-based C++ application developed to streamline pharmaceutical i
 - C++  
 - Object-Oriented Programming (OOP)  
 - File Handling  
-- Console-based interface  
+- Console-based interface
 
 ---
 
@@ -52,6 +55,8 @@ A simple, console-based C++ application developed to streamline pharmaceutical i
    ```bash
    g++ DrugHouseManagementSystem.cpp -o drug_system
    ./drug_system
+
+---
 
 🙋‍♂️ Author
 Rochak Tiwari
