@@ -1,4 +1,4 @@
-// Drug House Management System
+// PharmaPro: Inventory & Billing Management System (C++)
 // Developed by Rochak Tiwari
 // This project manages pharmaceutical inventory, billing, stock alerts, and authentication using PIN-based access.
 // Features: Stock Management, Automated Billing, Low-Stock Alerts, Purchase Tracking, and Secure Admin Access
