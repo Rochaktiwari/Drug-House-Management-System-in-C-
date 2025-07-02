@@ -1,4 +1,4 @@
-# 💊 Drug House Management System
+# 💊 PharmaPro: Inventory & Billing Management System in C++
 
 A simple, console-based C++ application developed to streamline pharmaceutical inventory, billing, and stock management for a medical facility.
 
@@ -27,7 +27,7 @@ A simple, console-based C++ application developed to streamline pharmaceutical i
 ---
 
 ## 📂 File Structure
-├── DrugHouseManagementSystem.cpp # Main source code
+├── PharmaPro.cpp # Main source code
 
 ├── stock.txt # Stores current stock data
 
@@ -43,19 +43,7 @@ A simple, console-based C++ application developed to streamline pharmaceutical i
 - Object-Oriented Programming (OOP)  
 - File Handling  
 - Console-based interface
-
----
-
-## ▶️ How to Run
-
-1. **Set up your PIN**  
-   Create a file named `pin.txt` in the same folder and write your desired PIN (e.g., `1234`) on the first line.
-
-2. **Compile the Program**  
-   ```bash
-   g++ DrugHouseManagementSystem.cpp -o drug_system
-   ./drug_system
-
+- 
 ---
 
 ## 🙋‍♂️ Author
